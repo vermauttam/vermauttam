@@ -1,7 +1,7 @@
-<h1>now!</h1>
+<h1>Now!</h1>
 </br>
 </br>
-contacts2uttam@gmail.com
+<a href=mailto:contacts2uttam@gmail.com>contacts2uttam@gmail.com</a>
 </br>
 </br>
 <!---
